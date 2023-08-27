@@ -21,3 +21,6 @@ steps:
       ]
     id: 'deploying combined service'
     dir: 'name_of_directory'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
